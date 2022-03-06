@@ -1,4 +1,4 @@
-//PROGRAM FOR SINGLE INHERTANCE  1904 
+//PROGRAM FOR SINGLE INHERTANCE   
 #include<iostream>
 using namespace std;
 class base
